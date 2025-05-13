@@ -1,0 +1,14 @@
+{
+  "items":[
+    {"product_name":"Fralda Turma da Mônica Tripla Proteção, Mega - XG, 34 unidades","quantity_or_measure":34.0,"price":29.99},
+    {"product_name":"Fralda de Bebê Cremer Disney, M - 40 unidades","quantity_or_measure":40.0,"price":32.9},
+    {"product_name":"Fralda Pampers Confort Sec, M - 38 unidades","quantity_or_measure":38.0,"price":34.99},
+    {"product_name":"Fralda Huggies Supreme Care Hiper, G - 52 unidades","quantity_or_measure":52.0,"price":49.9},
+    {"product_name":"Fralda Pampers Premium Care, M - 40 unidades","quantity_or_measure":40.0,"price":52.9},
+    {"product_name":"Fralda de Bebê Mamypoko Fralda-Calça, XG - 38 unidades","quantity_or_measure":38.0,"price":62.9},
+    {"product_name":"Fralda Pampers Confort Sec Pants, XXG - 36 unidades","quantity_or_measure":36.0,"price":64.9},
+    {"product_name":"Fralda Huggies Supreme Care Hiper, XXG - 40 unidades","quantity_or_measure":40.0,"price":72.9},
+    {"product_name":"Fralda Pampers Premium Care Pants, XG - 36 unidades","quantity_or_measure":36.0,"price":84.9},
+    {"product_name":"Fralda de Bebê Mamypoko Fralda-Calça, XXG - 32 unidades","quantity_or_measure":32.0,"price":89.9}
+  ]
+}
