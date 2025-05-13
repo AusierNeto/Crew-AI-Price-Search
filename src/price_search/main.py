@@ -18,7 +18,7 @@ def run():
     Run the crew.
     """
     inputs = {
-        'name': 'Fralda de bebê',
+        'name': 'Relógio Casio G SHOCK DW 5600 Preto',
     }
     
     try:
