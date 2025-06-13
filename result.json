@@ -1,1 +1,64 @@
-{"items":[{"product_name":"Relógio Casio G SHOCK DW 5600 Preto","quantity_or_measure":1.0,"price":429.99,"website_of_research":"www.lojacasiovintage.com.br"},{"product_name":"Relógio Casio G SHOCK DW 5600 Preto","quantity_or_measure":1.0,"price":436.5,"website_of_research":"www.relogioscentauro.com.br"},{"product_name":"Relógio Casio G SHOCK DW 5600 Preto","quantity_or_measure":1.0,"price":449.9,"website_of_research":"www.netshoes.com.br"},{"product_name":"Relógio Casio G SHOCK DW 5600 Preto","quantity_or_measure":1.0,"price":459.9,"website_of_research":"www.decaratrishop.com.br"},{"product_name":"Relógio Casio G SHOCK DW 5600 Preto","quantity_or_measure":1.0,"price":468.5,"website_of_research":"www.relogioskeller.com.br"},{"product_name":"Relógio Casio G SHOCK DW 5600 Preto","quantity_or_measure":1.0,"price":485.0,"website_of_research":"www.magazineluiza.com.br"},{"product_name":"Relógio Casio G SHOCK DW 5600 Preto","quantity_or_measure":1.0,"price":500.0,"website_of_research":"www.americanas.com.br"},{"product_name":"Relógio Casio G SHOCK DW 5600 Preto","quantity_or_measure":1.0,"price":519.9,"website_of_research":"www.submarino.com.br"},{"product_name":"Relógio Casio G SHOCK DW 5600 Preto","quantity_or_measure":1.0,"price":549.9,"website_of_research":"www.shoptime.com.br"},{"product_name":"Relógio Casio G SHOCK DW 5600 Preto","quantity_or_measure":1.0,"price":560.0,"website_of_research":"www.zattini.com.br"}]}
+{
+  "items": [
+    {
+      "product_name": "Alcatra na Swift",
+      "quantity_or_measure": 1.0,
+      "price": 39.0,
+      "website_of_research": "https://www.swift.com.br/bovinos/alcatra"
+    },
+    {
+      "product_name": "Alcatra na Comper",
+      "quantity_or_measure": 1.0,
+      "price": 29.98,
+      "website_of_research": "https://www.comper.com.br/alcatra-bovina-com-osso-fatiada-kg/p"
+    },
+    {
+      "product_name": "Miolo da Alcatra na Extra Carne",
+      "quantity_or_measure": 1.0,
+      "price": 40.95,
+      "website_of_research": "https://www.extracarne.com.br/carnes-bovinas/miolo-da-alcatra-preco-por-kg?srsltid=AfmBOorpQVMq9M-S3MK4q43TDl_nDFVoOcvKY4eOzYU5-D7-k_NxqNqH"
+    },
+    {
+      "product_name": "Alcatra Muffato Foods no Super Muffato",
+      "quantity_or_measure": 1.0,
+      "price": 41.2,
+      "website_of_research": "https://www.supermuffato.com.br/carnes-aves-e-peixes/carnes-bovinas"
+    },
+    {
+      "product_name": "Alcatra Swift no Pão de Açúcar",
+      "quantity_or_measure": 1.0,
+      "price": 49.97,
+      "website_of_research": "https://www.paodeacucar.com/produto/445658/alcatra-swift-1,5kg"
+    },
+    {
+      "product_name": "Alcatra Swift no Extra Mercado",
+      "quantity_or_measure": 1.0,
+      "price": 49.97,
+      "website_of_research": "https://www.extramercado.com.br/produto/422893/alcatra-swift-1,5kg"
+    },
+    {
+      "product_name": "Bife Alcatra Carrefour",
+      "quantity_or_measure": 1.0,
+      "price": 53.99,
+      "website_of_research": "https://mercado.carrefour.com.br/acougue-e-peixaria/carnes-bovinas/alcatra?sc=2"
+    },
+    {
+      "product_name": "Carne Bovina Alcatra c/Maminha Reserva no Pomar Delivery",
+      "quantity_or_measure": 1.0,
+      "price": 65.9,
+      "website_of_research": "https://www.pomardelivery.com.br/Produto.aspx?id=6256&desc=CARNE+BOVINA+ALCATRA+C%2FMAMINHA++RESERVA+1KG+(+APROXIMADAMENTE+)"
+    },
+    {
+      "product_name": "Miolo de Alcatra Maturatta no Carrefour ",
+      "quantity_or_measure": 1.0,
+      "price": 77.49,
+      "website_of_research": "https://mercado.carrefour.com.br/acougue-e-peixaria/carnes-bovinas/alcatra?sc=2"
+    },
+    {
+      "product_name": "Alcatra na Comper",
+      "quantity_or_measure": 1.0,
+      "price": 34.99,
+      "website_of_research": "https://www.comper.com.br/alcatra-bovina-com-osso-fatiada-kg/p"
+    }
+  ]
+}

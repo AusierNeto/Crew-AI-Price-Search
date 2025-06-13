@@ -2,7 +2,7 @@ from typing import List
 from crewai import Agent, Crew, Process, Task
 from crewai.agents.agent_builder.base_agent import BaseAgent
 from crewai.project import CrewBase, agent, crew, task
-import pydantic
+from crewai_tools import SerperDevTool
 from price_search.models.responses import Price, Prices
 
 
@@ -20,7 +20,8 @@ class PriceSearch():
     def researcher(self) -> Agent:
         return Agent(
             config=self.agents_config['researcher'],
-            verbose=True
+            verbose=True,
+            tools=[SerperDevTool()]
         )
 
     @task
